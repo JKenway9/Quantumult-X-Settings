@@ -1,0 +1,43 @@
+# > Apple Music
+HOST-SUFFIX,applemusic.apple,DIRECT
+HOST-SUFFIX,itun.es,DIRECT
+HOST-SUFFIX,itunes.apple.com,DIRECT
+HOST-SUFFIX,itunes.ca,DIRECT
+HOST-SUFFIX,itunes.co,DIRECT
+HOST-SUFFIX,itunes.com,DIRECT
+HOST-SUFFIX,itunes.co.th,DIRECT
+HOST-SUFFIX,itunes.g.aaplimg.com,DIRECT
+HOST-SUFFIX,itunes.hk,DIRECT
+HOST-SUFFIX,itunes.mx,DIRECT
+HOST-SUFFIX,itunes.org,DIRECT
+HOST-SUFFIX,itunes.us,DIRECT
+HOST-SUFFIX,music.apple.com,DIRECT
+HOST-KEYWORD,apple music,DIRECT
+
+# > Weibo
+HOST-SUFFIX,weibocdn.com,DIRECT
+HOST-SUFFIX,weibo.cn,DIRECT
+HOST-SUFFIX,weibo.com,DIRECT
+HOST-KEYWORD,weibo,DIRECT
+
+# > Wechat
+HOST-SUFFIX,servicewechat.com,DIRECT
+HOST-SUFFIX,wechatapp.com,DIRECT
+HOST-SUFFIX,wechat.com,DIRECT
+HOST-SUFFIX,wechat.org,DIRECT
+HOST-SUFFIX,weixinconf.qq.com,DIRECT
+HOST-SUFFIX,weixin.qq.com,DIRECT
+HOST-SUFFIX,weixin.qq.com.cn,DIRECT
+HOST-SUFFIX,wx.qq.com,DIRECT
+HOST-SUFFIX,wxs.qq.com,DIRECT
+
+# > Mail
+HOST-SUFFIX,163.com,DIRECT
+HOST-SUFFIX,126.com,DIRECT
+HOST-SUFFIX,gmail.com,PROXY
+HOST-SUFFIX,outlook.com,DIRECT
+
+# > Maps
+HOST-SUFFIX,amap.com,DIRECT
+
+
