@@ -40,4 +40,41 @@ HOST-SUFFIX,outlook.com,DIRECT
 # > Maps
 HOST-SUFFIX,amap.com,DIRECT
 
+# > OneDrive
+HOST-SUFFIX,1drv.com,PROXY
+HOST-SUFFIX,1drv.ms,PROXY
+HOST-SUFFIX,docs.live.net,PROXY
+HOST-SUFFIX,l-0003.l-dc-msedge.net,PROXY
+HOST-SUFFIX,l-0003.l-msedge.net,PROXY
+HOST-SUFFIX,l-0004.l-dc-msedge.net,PROXY
+HOST-SUFFIX,livefilestore.com,PROXY
+HOST-SUFFIX,odwebb.svc.ms,PROXY
+HOST-SUFFIX,odwebdf.svc.ms,PROXY
+HOST-SUFFIX,odwebpl.svc.ms,PROXY
+HOST-SUFFIX,odwebp.svc.ms,PROXY
+HOST-SUFFIX,onedrive.com,PROXY
+HOST-SUFFIX,onedrive.live.com,PROXY
+HOST-SUFFIX,settings.live.net,PROXY
+HOST-SUFFIX,skyapi.live.net,PROXY
+HOST-SUFFIX,skyapi.policies.live.net,PROXY
+HOST-SUFFIX,skydrivesync.policies.live.net,PROXY
+HOST-SUFFIX,storage.live.com,PROXY
+HOST-SUFFIX,windows.policies.live.net,PROXY
+
+# > Taobao
+HOST-SUFFIX,mmstat.com,DIRECT
+HOST-SUFFIX,taobao.com,DIRECT
+HOST-SUFFIX,taobao-tw.alibaba.com,DIRECT
+HOST-SUFFIX,tb.cn,DIRECT
+
+# > Alipay
+HOST-KEYWORD,alipay,DIRECT
+HOST-SUFFIX,alipay.cn,DIRECT
+HOST-SUFFIX,alipay.com,DIRECT
+HOST-SUFFIX,alipay.com.cn,DIRECT
+HOST-SUFFIX,alipaydns.com,DIRECT
+HOST-SUFFIX,alipay.hk,DIRECT
+HOST-SUFFIX,alipayobjects.com,DIRECT
+HOST-SUFFIX,zamcs.com,DIRECT
+
 
