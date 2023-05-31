@@ -77,4 +77,16 @@ HOST-SUFFIX,alipay.hk,DIRECT
 HOST-SUFFIX,alipayobjects.com,DIRECT
 HOST-SUFFIX,zamcs.com,DIRECT
 
+# > Meituan
+HOST-SUFFIX,meituan.com,DIRECT
+HOST-SUFFIX,dianping.com,DIRECT
+HOST-SUFFIX,dpurl.cn,DIRECT
+
+# > Xiaomi Services
+HOST-SUFFIX,mi.com,DIRECT
+HOST-SUFFIX,mi-img.com,DIRECT
+HOST-SUFFIX,xiaomi.com,DIRECT
+HOST-SUFFIX,xiaomi.net,DIRECT
+HOST-SUFFIX,xiaomiyoupin.com,DIRECT
+HOST-KEYWORD,xiaomi,DIRECT
 
