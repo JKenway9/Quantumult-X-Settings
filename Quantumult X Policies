@@ -1,1 +1,11 @@
-url-latency-benchmark,ChatGPT,🇯🇵Japan,🇺🇸USA,https://raw.githubusercontent.com/JKenway9/Quantumult-X-Settings/Icons/ChatGPT.png
+url-latency-benchmark=ChatGPT, server-tag-regex=日本|🇯🇵|Japan|JP|美国|🇺🇸|US|USA|Carlifornia|Tokyo|America, check-interval=600,tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/JKenway9/Quantumult-X-Settings/Icons/GPT.png
+url-latency-benchmark=Speed First, server-tag-regex=日本|🇯🇵|Japan|JP|美国|🇺🇸|US|USA|America|香港|Hong Kong|HK|🇭🇰|台湾|Taiwan|TW|韩国||Korea|新加坡|🇸🇬|Singapore|SG|🇦🇺|澳大利亚|Australia|AU|Tokyo|California|Incheon|Hongkong|印度|India|🇮🇳|Delhi,check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/JKenway9/Quantumult-X-Settings/Icons/LT.png
+url-latency-benchmark=Steam,server-tag-regex=日本|🇯🇵|Japan|JP|美国|🇺🇸|US|USA|Carlifornia|Tokyo|America,check-interval=600，tolerance=0, alive-checking=false,img-url=https://raw.githubusercontent.com/JKenway9/Quantumult-X-Settings/Icons/Steam.png
+static=Hong Kong, server-tag-regex=香港|Hong Kong|HK|🇭🇰|Hongkong, img-url=https://raw.githubusercontent.com/JKenway9/Quantumult-X-Settings/Icons/HK.png
+static=Taiwan, server-tag-regex=台湾|Taiwan|TW|🇹🇼, img-url=https://raw.githubusercontent.com/JKenway9/Quantumult-X-Settings/Icons/TW.png
+static=Japan, server-tag-regex=日本|Japan|🇯🇵|Tokyo, img-url=https://raw.githubusercontent.com/JKenway9/Quantumult-X-Settings/Icons/JP.png
+static=South Korea, server-tag-regex=韩国|🇰🇷|Korea|Incheon, img-url=https://raw.githubusercontent.com/JKenway9/Quantumult-X-Settings/Icons/KR.png
+static=Singapore, server-tag-regex=新加坡|🇸🇬|Singapore|SG, img-url=https://raw.githubusercontent.com/JKenway9/Quantumult-X-Settings/Icons/SG.png
+static=Australia, server-tag-regex=🇦🇺|澳大利亚|Australia|AU|Sydney|🇦🇺, img-url=https://raw.githubusercontent.com/JKenway9/Quantumult-X-Settings/Icons/AU.png
+static=USA, server-tag-regex=|美国|US|USA|America|Carlifornia|🇺🇸, img-url=https://raw.githubusercontent.com/JKenway9/Quantumult-X-Settings/Icons/US.png
+static=India, server-tag-regex=|印度|India|🇮🇳|Delhi,img-url=https://raw.githubusercontent.com/JKenway9/Quantumult-X-Settings/Icons/India.png
