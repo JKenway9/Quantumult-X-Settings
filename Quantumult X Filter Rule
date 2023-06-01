@@ -44,6 +44,12 @@ HOST-SUFFIX,amap.com,DIRECT
 # > Bilibili
 HOST-SUFFIX,bilibili.com,DIRECT
 HOST-SUFFIX,b23.tv.com,DIRECT
+HOST-SUFFIX,biliintl.com,DIRECT
+HOST-SUFFIX,apm-misaka.biliapi.net,DIRECT
+HOST-SUFFIX,p.bstarstatic.com,DIRECT
+HOST-SUFFIX,p-bstarstatic.akamaized.net,DIRECT
+HOST-SUFFIX,upos-bstar-mirrorakam.akamaized.net,DIRECT
+HOST-SUFFIX,upos-bstar1-mirrorakam.akamaized.net,DIRECT
 
 # > Hupu
 HOST-SUFFIX,hupu.com,DIRECT
@@ -115,6 +121,15 @@ HOST-KEYWORD,imdb,Speed First
 # > Twitter
 HOST-SUFFIX,twitter.com,Speed First
 HOST-KEYWORD,twitter.com,Speed First
+HOST-SUFFIX,pscp.tv,Speed First
+HOST-SUFFIX,periscope.tv,Speed First
+HOST-SUFFIX,t.co,Speed First
+HOST-SUFFIX,twimg.co,Speed First
+HOST-SUFFIX,twimg.com,Speed First
+HOST-SUFFIX,twitpic.com,Speed First
+HOST-SUFFIX,twitter.com,Speed First
+HOST-SUFFIX,twitter.jp,Speed First
+HOST-SUFFIX,vine.co,Speed First
 
 # > GitHub
 HOST-SUFFIX, github.com,Speed First
@@ -152,6 +167,28 @@ HOST-SUFFIX,notion.so,Speed First
 HOST-SUFFIX,steampowered.com,ChatGPT
 HOST-SUFFIX,steamcommunity.com,ChatGPT
 HOST-SUFFIX,steamgames.com,ChatGPT
+
+# > Telegram
+HOST-SUFFIX,t.me,Speed First
+HOST-SUFFIX,tdesktop.com,Speed First
+HOST-SUFFIX,telegra.ph,Speed First
+HOST-SUFFIX,telegram.me,Speed First
+HOST-SUFFIX,telegram.org,Speed First
+HOST-SUFFIX,telesco.pe,Speed First
+IP-CIDR,91.108.4.0/22,Speed First
+IP-CIDR,91.108.8.0/22,Speed First
+IP-CIDR,91.108.12.0/22,Speed First
+IP-CIDR,91.108.16.0/22,Speed First
+IP-CIDR,91.108.20.0/22,Speed First
+IP-CIDR,91.108.56.0/22,Speed First
+IP-CIDR,91.105.192.0/23,Speed First
+IP-CIDR,149.154.160.0/20,Speed First
+IP-CIDR,185.76.151.0/24,Speed First
+IP6-CIDR,2001:b28:f23d::/48,Speed First
+IP6-CIDR,2001:b28:f23f::/48,Speed First
+IP6-CIDR,2001:67c:4e8::/48,Speed First
+IP6-CIDR,2001:b28:f23c::/48,Speed First
+IP6-CIDR,2a0a:f280::/32,Speed First
 
 # > Open Source
 HOST-SUFFIX,zamcs.com,DIRECT
