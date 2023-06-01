@@ -1,18 +1,19 @@
 [general]
-;profile_img_url =http://www.example.com/example.png
-;resource_parser_url =http://www.example.com/parser.js
-;network_check_url =http://bing.com
 server_check_url=http://cp.cloudflare.com/generate_204
 network_check_url=http://www.google-analytics.com/generate_204
 resource_parser_url=https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/Scripts/resource-parser.js
 geo_location_checker=http://ip-api.com/json/?lang=zh-CN, https://raw.githubusercontent.com/limbopro/QuantumultX/master/Scripts/IP_API.js
+dns_exclusion_list = *.cmpassport.com, *.jegotrip.com.cn, *.icitymobile.mobi, id6.me
 
+# > Codes below are examples,";" and "#" indicate that this line is only for annotation.
+;profile_img_url =http://www.example.com/example.png
+;resource_parser_url =http://www.example.com/parser.js
+;network_check_url =http://bing.com
 ;server_check_user_agent = Agent/1.0
 ;server_check_timeout = 5000
 ;doh_user_agent = Agent/1.0
 ;geo_location_checker = http://www.example.com/json/, https://www.example.com/script.js
 ;running_mode_trigger = filter, filter, LINK_22E171:all_proxy, LINK_22E172:all_direct
-dns_exclusion_list = *.cmpassport.com, *.jegotrip.com.cn, *.icitymobile.mobi, id6.me
 ;dns_reject_domain_behavior = loopback
 ;ssid_suspended_list = LINK_22E174, LINK_22E175
 ;enhanced_compatibility_ssid_list = LINK_22E174, LINK_22E175
@@ -84,6 +85,8 @@ static=🇰🇷South Korea, server-tag-regex=韩国|🇰🇷|Korea, img-url=glob
 static=🇸🇬Singapore, server-tag-regex=新加坡|🇸🇬|Singapore|SG, img-url=globe.asia.australia.system
 static=🇦🇺Australia, server-tag-regex=🇦🇺|澳大利亚|Australia|AU, img-url=globe.asia.australia.system
 static=🇺🇸USA, server-tag-regex=🇺🇸|美国|US|USA|America|Carlifornia, img-url=globe.americas.system
+
+# > Codes below are examples,";" and "#" indicate that this line is only for annotation.
 ;static = policy-name-1, Sample-A, Sample-B, Sample-C, img-url=http://example.com/icon.png
 ;available = policy-name-2, Sample-A, Sample-B, Sample-C
 ;round-robin = policy-name-3, Sample-A, Sample-B, Sample-C
@@ -99,15 +102,11 @@ static=🇺🇸USA, server-tag-regex=🇺🇸|美国|US|USA|America|Carlifornia,
 # The default sync interval for all kinds of remote resources is 86400 seconds.
 # You can set update-interval=172800 to customize your auto sync interval(seconds), negative number means disable auto sync.
 # If the require-devices is set, this line of configuration will only be loaded when current Quantumult device ID belongs to the require-devices. The Quantumult device ID can be found in "Settings - Misc Settings - About".
-#
+# 
+
 [server_remote]
-https://sub-gfwairport1.download/api/v1/client/subscribe?token=bed68ec09315a034d8c44d8fa32a69e8, tag=Gandhi, img-url=airplane.departure.system, update-interval=86400, opt-parser=false, enabled=true
-https://ovofast.xyz/api/v1/client/subscribe?token=a0df4e2b341c7071fb0676b5b032ed2b, tag=Fitzgerald, img-url=airplane.departure.system, update-interval=86400, opt-parser=true, enabled=true
-https://sub.ssrsub.com/api/v1/client/subscribe?token=40ba5f2c0e8c75f8174d48de707c324e, tag=Einstein, img-url=airplane.departure.system, update-interval=86400, opt-parser=false, enabled=true
-https://fly.piaole.me/api/v1/client/subscribe?token=8e1aca20a743d4b65919d3d99cbc3d39, tag=Dalí, img-url=airplane.departure.system, update-interval=86400, opt-parser=false, enabled=true
-https://pyssr.com/api/v1/client/subscribe?token=52a5620590b643e0814d98708591e3fb, tag=Cleopatra, img-url=airplane.departure.system, update-interval=86400, opt-parser=false, enabled=true
-https://djjc.cfd/api/v1/client/subscribe?token=cf655bbbd0d8303109999d60fbb1be73, tag=Boccaccio, img-url=airplane.departure.system, update-interval=86400, opt-parser=false, enabled=true
-https://liulangdiqiu.cc/api/v1/client/subscribe?token=23e15e691ca8e02dda23cd088d8fb69d, tag=Aristotle, img-url=airplane.departure.system, update-interval=86400, opt-parser=false, enabled=true
+
+# > Codes below are examples,";" and "#" indicate that this line is only for annotation.
 ;https://raw.githubusercontent.com/crossutility/Quantumult-X/master/server.snippet, tag=Sample-01
 ;https://raw.githubusercontent.com/crossutility/Quantumult-X/master/server.snippet, opt-parser=true, tag=Sample-01
 ;https://raw.githubusercontent.com/crossutility/Quantumult-X/master/server.snippet, update-interval=-1, tag=Sample-01
@@ -121,6 +120,11 @@ https://liulangdiqiu.cc/api/v1/client/subscribe?token=23e15e691ca8e02dda23cd088d
 [filter_remote]
 FILTER_LAN, tag=LAN, force-policy=direct, enabled=true
 FILTER_REGION, tag=CN, force-policy=direct, enabled=true
+http://limbopro.xyz/Adblock4limbo.list, tag=毒奶特供, force-policy=reject, enabled=true
+https://raw.githubusercontent.com/NobyDa/ND-AD/master/QuantumultX/AD_Block.txt, tag=野比(AD_Block), force-policy=reject, enabled=false
+https://raw.githubusercontent.com/NobyDa/ND-AD/master/QuantumultX/AD_Block_Plus.txt, tag=野比(AD_Block_Plus), force-policy=reject, enabled=true
+
+# > Codes below are examples,";" and "#" indicate that this line is only for annotation.
 ;https://raw.githubusercontent.com/crossutility/Quantumult-X/master/filter.snippet, tag=Sample, force-policy=your-policy-name, enabled=true
 ;https://example.com/filter.snippet, tag=Sample, force-policy=your-policy-name, require-devices=ID1, ID2, enabled=true
 https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Filter/China.list, tag=Chinese Internet, force-policy=direct, update-interval=86400, opt-parser=true, enabled=true
@@ -128,6 +132,11 @@ https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Filter
 # Params "tag" and "enabled" are optional.
 #
 [rewrite_remote]
+http://limbopro.xyz/Adblock4limbo.conf, tag=毒奶特供, enabled=true
+https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Rewrite/Block/YouTubeAds.conf, tag=DivineEngine (Youtube AdsBlock), enabled=true
+https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Rewrite/Block/Advertising.conf, tag=DivineEngine (Advertising), enabled=true
+https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/Rewrite_lhie1.conf, tag=NoByDa（lhie1 Rewrite）, enabled=true
+https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/Js.conf, tag=NoByDa（NoByDa Rewrite）, enabled=true
 ;https://raw.githubusercontent.com/crossutility/Quantumult-X/master/sample-import-rewrite.snippet, tag=Sample, enabled=true
 ;https://example.com/rewrite.snippet, tag=Sample, require-devices=ID1, ID2, enabled=true
 
