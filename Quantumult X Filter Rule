@@ -144,6 +144,14 @@ HOST-SUFFIX,s-0001.s-dc-msedge.net,PROXY
 HOST-SUFFIX,skypeassets.com,PROXY
 HOST-SUFFIX,skype.com,PROXY
 
+# > Notion
+HOST-SUFFIX,notion.so,⚡️Speed First
+
+# > Steam
+HOST-SUFFIX,steampowered.com,🤖️ChatGPT
+HOST-SUFFIX,steamcommunity.com,🤖️ChatGPT
+HOST-SUFFIX,steamgames.com,🤖️ChatGPT
+
 # > Open Source
 HOST-SUFFIX,zamcs.com,DIRECT
 host-suffix, local, direct
