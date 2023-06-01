@@ -56,25 +56,25 @@ HOST-KEYWORD,heybox,DIRECT
 HOST-SUFFIX,amap.com,DIRECT
 
 # > OneDrive
-HOST-SUFFIX,1drv.com,⚡️Speed First
-HOST-SUFFIX,1drv.ms,⚡️Speed First
-HOST-SUFFIX,docs.live.net,⚡️Speed First
-HOST-SUFFIX,l-0003.l-dc-msedge.net,⚡️Speed First
-HOST-SUFFIX,l-0003.l-msedge.net,⚡️Speed First
-HOST-SUFFIX,l-0004.l-dc-msedge.net,⚡️Speed First
-HOST-SUFFIX,livefilestore.com,⚡️Speed First
-HOST-SUFFIX,odwebb.svc.ms,⚡️Speed First
-HOST-SUFFIX,odwebdf.svc.ms,⚡️Speed First
-HOST-SUFFIX,odwebpl.svc.ms,⚡️Speed First
-HOST-SUFFIX,odwebp.svc.ms,⚡️Speed First
-HOST-SUFFIX,onedrive.com,⚡️Speed First
-HOST-SUFFIX,onedrive.live.com,⚡️Speed First
-HOST-SUFFIX,settings.live.net,⚡️Speed First
-HOST-SUFFIX,skyapi.live.net,⚡️Speed First
-HOST-SUFFIX,skyapi.policies.live.net,⚡️Speed First
-HOST-SUFFIX,skydrivesync.policies.live.net,⚡️Speed First
-HOST-SUFFIX,storage.live.com,⚡️Speed First
-HOST-SUFFIX,windows.policies.live.net,⚡️Speed First
+HOST-SUFFIX,1drv.com,Speed First
+HOST-SUFFIX,1drv.ms,Speed First
+HOST-SUFFIX,docs.live.net,Speed First
+HOST-SUFFIX,l-0003.l-dc-msedge.net,Speed First
+HOST-SUFFIX,l-0003.l-msedge.net,Speed First
+HOST-SUFFIX,l-0004.l-dc-msedge.net,Speed First
+HOST-SUFFIX,livefilestore.com,Speed First
+HOST-SUFFIX,odwebb.svc.ms,Speed First
+HOST-SUFFIX,odwebdf.svc.ms,Speed First
+HOST-SUFFIX,odwebpl.svc.ms,Speed First
+HOST-SUFFIX,odwebp.svc.ms,Speed First
+HOST-SUFFIX,onedrive.com,Speed First
+HOST-SUFFIX,onedrive.live.com,Speed First
+HOST-SUFFIX,settings.live.net,Speed First
+HOST-SUFFIX,skyapi.live.net,Speed First
+HOST-SUFFIX,skyapi.policies.live.net,Speed First
+HOST-SUFFIX,skydrivesync.policies.live.net,Speed First
+HOST-SUFFIX,storage.live.com,Speed First
+HOST-SUFFIX,windows.policies.live.net,Speed First
 
 # > Taobao
 HOST-SUFFIX,mmstat.com,DIRECT
@@ -105,40 +105,40 @@ HOST-SUFFIX,xiaomiyoupin.com,DIRECT
 HOST-KEYWORD,xiaomi,DIRECT
 
 # > ChatGPT
-host-suffix, ai.com, 🤖️ChatGPT
-host-keyword, chatgpt, 🤖️ChatGPT
+host-suffix, ai.com, ChatGPT
+host-keyword, chatgpt, ChatGPT
 
 # > ImDb
-HOST-SUFFIX,imdb.com, ⚡️Speed First
-HOST-KEYWORD,imdb,⚡️Speed First
+HOST-SUFFIX,imdb.com, Speed First
+HOST-KEYWORD,imdb,Speed First
 
 # > Twitter
-HOST-SUFFIX,twitter.com,⚡️Speed First
-HOST-KEYWORD,twitter.com,⚡️Speed First
+HOST-SUFFIX,twitter.com,Speed First
+HOST-KEYWORD,twitter.com,Speed First
 
 # > GitHub
-HOST-SUFFIX, github.com,⚡️Speed First
-HOST-KEYWORD，githubusercontent,⚡️Speed First
+HOST-SUFFIX, github.com,Speed First
+HOST-KEYWORD，githubusercontent,Speed First
 
 # > Search Engine
-HOST-SUFFIX, google.com, ⚡️Speed First
-HOST-SUFFIX, duckduckgo.com,⚡️Speed First
-HOST-SUFFIX, nivod.tv, ⚡️Speed First
+HOST-SUFFIX, google.com, Speed First
+HOST-SUFFIX, duckduckgo.com,Speed First
+HOST-SUFFIX, nivod.tv, Speed First
 
 # > NSFW
-HOST-SUFFIX, jable.tv, ⚡️Speed First
-HOST-SUFFIX, missav.com, ⚡️Speed First
-HOST-KEYWORD,Pornhub,⚡️Speed First
+HOST-SUFFIX, jable.tv, Speed First
+HOST-SUFFIX, missav.com, Speed First
+HOST-KEYWORD,Pornhub,Speed First
 
 # > Wikipedia
-host-suffix, wikipedia.org, ⚡️Speed First
+host-suffix, wikipedia.org, Speed First
 
 # > Fandom
-host-keyword, fandom, ⚡️Speed First
+host-keyword, fandom, Speed First
 
 # > Reddit
-host-suffix, reddit.com, ⚡️Speed First
-HOST-KEYWORD, reddit, ⚡️Speed First
+host-suffix, reddit.com, Speed First
+HOST-KEYWORD, reddit, Speed First
 
 # > Skype
 HOST-SUFFIX,s-0001.s-dc-msedge.net,PROXY
@@ -146,12 +146,12 @@ HOST-SUFFIX,skypeassets.com,PROXY
 HOST-SUFFIX,skype.com,PROXY
 
 # > Notion
-HOST-SUFFIX,notion.so,⚡️Speed First
+HOST-SUFFIX,notion.so,Speed First
 
 # > Steam
-HOST-SUFFIX,steampowered.com,🤖️ChatGPT
-HOST-SUFFIX,steamcommunity.com,🤖️ChatGPT
-HOST-SUFFIX,steamgames.com,🤖️ChatGPT
+HOST-SUFFIX,steampowered.com,ChatGPT
+HOST-SUFFIX,steamcommunity.com,ChatGPT
+HOST-SUFFIX,steamgames.com,ChatGPT
 
 # > Open Source
 HOST-SUFFIX,zamcs.com,DIRECT
