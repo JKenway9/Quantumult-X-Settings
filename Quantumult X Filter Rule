@@ -117,7 +117,8 @@ HOST-SUFFIX,twitter.com,⚡️Speed First
 HOST-KEYWORD,twitter.com,⚡️Speed First
 
 # > GitHub
-HOST-SUFFIX, github.com, ⚡️Speed First
+HOST-SUFFIX, github.com,⚡️Speed First
+HOST-SUFFIX，raw.githubusercontent.com,⚡️Speed First
 
 # > Search Engine
 HOST-SUFFIX, google.com, ⚡️Speed First
