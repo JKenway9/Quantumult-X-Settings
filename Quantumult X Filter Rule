@@ -1,3 +1,6 @@
+
+host-suffix, reddit.com, ⚡️Speed First
+
 # > Apple Music
 HOST-SUFFIX,applemusic.apple,DIRECT
 HOST-SUFFIX,itun.es,DIRECT
@@ -13,6 +16,7 @@ HOST-SUFFIX,itunes.org,DIRECT
 HOST-SUFFIX,itunes.us,DIRECT
 HOST-SUFFIX,music.apple.com,DIRECT
 HOST-KEYWORD,apple music,DIRECT
+HOST-SUFFIX,music.apple.com,DIRECT
 
 # > Weibo
 HOST-SUFFIX,weibocdn.com,DIRECT
@@ -36,6 +40,20 @@ HOST-SUFFIX,163.com,DIRECT
 HOST-SUFFIX,126.com,DIRECT
 HOST-SUFFIX,gmail.com,PROXY
 HOST-SUFFIX,outlook.com,DIRECT
+
+# > Maps
+HOST-SUFFIX,amap.com,DIRECT
+
+# > Bilibili
+HOST-SUFFIX,bilibili.com,DIRECT
+HOST-SUFFIX,b23.tv.com,DIRECT
+
+# > Hupu
+HOST-SUFFIX,hupu.com,DIRECT
+
+# > Heybox
+HOST-KEYWORD,xiaoheihe,DIRECT
+HOST-KEYWORD,heybox,DIRECT
 
 # > Maps
 HOST-SUFFIX,amap.com,DIRECT
@@ -75,7 +93,6 @@ HOST-SUFFIX,alipay.com.cn,DIRECT
 HOST-SUFFIX,alipaydns.com,DIRECT
 HOST-SUFFIX,alipay.hk,DIRECT
 HOST-SUFFIX,alipayobjects.com,DIRECT
-HOST-SUFFIX,zamcs.com,DIRECT
 
 # > Meituan
 HOST-SUFFIX,meituan.com,DIRECT
@@ -91,8 +108,36 @@ HOST-SUFFIX,xiaomiyoupin.com,DIRECT
 HOST-KEYWORD,xiaomi,DIRECT
 
 # > ChatGPT
-HOST-SUFFIX, ai.com, 🤖️ChatGPT
-HOST-KEYWORD, chatgpt, 🤖️ChatGPT
+host-suffix, ai.com, 🤖️ChatGPT
+host-keyword, chatgpt, 🤖️ChatGPT
 
 # > ImDb
-HOST-SUFFIX,imdb.com, 
+HOST-SUFFIX,imdb.com, ⚡️Speed First
+HOST-KEYWORD,imdb,⚡️Speed First
+
+# > Twitter
+HOST-SUFFIX,twitter.com,⚡️Speed First
+HOST-KEYWORD,twitter.com,⚡️Speed First
+
+# > GitHub
+HOST-SUFFIX, github.com, ⚡️Speed First
+
+# > Search Engine
+HOST-SUFFIX, google.com, ⚡️Speed First
+HOST-SUFFIX, duckduckgo.com,⚡️Speed First
+HOST-SUFFIX, nivod.tv, ⚡️Speed First
+
+# > NSFW
+HOST-SUFFIX, jable.tv, ⚡️Speed First
+HOST-SUFFIX, missav.com, ⚡️Speed First
+HOST-KEYWORD,Pornhub,⚡️Speed First
+
+# > Wikipedia
+host-suffix, wikipedia.org, ⚡️Speed First
+
+# > Fandom
+host-keyword, fandom, ⚡️Speed First
+
+# > Reddit
+host-suffix, reddit.com, ⚡️Speed First
+HOST-KEYWORD, reddit, ⚡️Speed First
