@@ -91,5 +91,8 @@ HOST-SUFFIX,xiaomiyoupin.com,DIRECT
 HOST-KEYWORD,xiaomi,DIRECT
 
 # > ChatGPT
-host-suffix, ai.com, 🤖️ChatGPT
-host-keyword, chatgpt, 🤖️ChatGPT
+HOST-SUFFIX, ai.com, 🤖️ChatGPT
+HOST-KEYWORD, chatgpt, 🤖️ChatGPT
+
+# > ImDb
+HOST-SUFFIX,imdb.com, 
