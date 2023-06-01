@@ -90,3 +90,6 @@ HOST-SUFFIX,xiaomi.net,DIRECT
 HOST-SUFFIX,xiaomiyoupin.com,DIRECT
 HOST-KEYWORD,xiaomi,DIRECT
 
+# > ChatGPT
+host-suffix, ai.com, 🤖️ChatGPT
+host-keyword, chatgpt, 🤖️ChatGPT
