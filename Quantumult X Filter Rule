@@ -138,3 +138,23 @@ host-keyword, fandom, ⚡️Speed First
 # > Reddit
 host-suffix, reddit.com, ⚡️Speed First
 HOST-KEYWORD, reddit, ⚡️Speed First
+
+# > Open Source
+HOST-SUFFIX,zamcs.com,DIRECT
+host-suffix, local, direct
+host-keyword, merlinblog, proxy
+host-keyword, dogess, proxy
+host-keyword, cylink, proxy
+host-keyword, kcssr, proxy
+host-keyword, stc-clubs, proxy
+host-keyword, tsubakitokanako, proxy
+host-suffix, api.crisp.chat, proxy
+host-suffix, app.crisp.im, proxy
+host-suffix, app.relay.crisp.chat, proxy
+host-suffix, crisp.chat, proxy
+host-suffix, client.crisp.chat, proxy
+host-suffix, client.relay.crisp.chat, proxy
+host-suffix, image.crisp.chat, proxy
+host-suffix, plugins.crisp.chat, proxy
+host-suffix, storage.crisp.chat, proxy
+host-suffix, world.crisp.help, proxy
