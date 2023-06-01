@@ -199,6 +199,9 @@ HOST-SUFFIX,spoti.fi,Spotify
 HOST-SUFFIX,spotify.com,Spotify
 HOST-SUFFIX,-spotify-com,Spotify
 
+# > Instagram
+HOST-KEYWORD,instagram,Speed First
+
 # > Open Source
 HOST-SUFFIX,zamcs.com,DIRECT
 host-suffix, local, direct
