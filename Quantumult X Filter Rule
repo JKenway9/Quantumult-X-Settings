@@ -139,6 +139,9 @@ HOST-KEYWORD,githubusercontent,Speed First
 HOST-SUFFIX, google.com, Speed First
 HOST-SUFFIX, duckduckgo.com,Speed First
 HOST-SUFFIX, nivod.tv, Speed First
+HOST-KEYWORD,nivos,Speed First
+HOST-KEYWORD,numbeo,Speed First
+HOST-KEYWORD,duckduckgo,Speed First
 
 # > NSFW
 HOST-SUFFIX, jable.tv, Speed First
