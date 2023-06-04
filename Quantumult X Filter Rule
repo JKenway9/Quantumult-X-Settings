@@ -118,6 +118,7 @@ host-keyword, chatgpt, ChatGPT
 HOST-SUFFIX,imdb.com, Speed First
 HOST-KEYWORD,imdb,Speed First
 HOST-KEYWORD,amazon,Speed First
+HOST-KEYWORD,scorecardresearch,Speed First
 
 # > Twitter
 HOST-SUFFIX,twitter.com,Speed First
