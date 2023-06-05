@@ -6094,30 +6094,30 @@ HOST-SUFFIX, ai.com, ChatGPT
 HOST-KEYWORD, chatgpt, ChatGPT
 
 # > ImDb
-HOST-SUFFIX,imdb.com, Speed First
-HOST-KEYWORD,imdb,Speed First
-HOST-KEYWORD,amazon,Speed First
-HOST-KEYWORD,scorecardresearch,Speed First
+HOST-SUFFIX,imdb.com,Social Media
+HOST-KEYWORD,imdb,Social Media
+HOST-KEYWORD,amazon,Social Media
+HOST-KEYWORD,scorecardresearch,Social Media
 
 # > Twitter
-HOST-SUFFIX,twitter.com,Speed First
-HOST-KEYWORD,twitter.com,Speed First
-HOST-SUFFIX,pscp.tv,Speed First
-HOST-SUFFIX,periscope.tv,Speed First
-HOST-SUFFIX,t.co,Speed First
-HOST-SUFFIX,twimg.co,Speed First
-HOST-SUFFIX,twimg.com,Speed First
-HOST-SUFFIX,twitpic.com,Speed First
-HOST-SUFFIX,twitter.com,Speed First
-HOST-SUFFIX,twitter.jp,Speed First
-HOST-SUFFIX,vine.co,Speed First
+HOST-SUFFIX,twitter.com,Social Media
+HOST-KEYWORD,twitter.com,Social Media
+HOST-SUFFIX,pscp.tv,Social Media
+HOST-SUFFIX,periscope.tv,Social Media
+HOST-SUFFIX,t.co,Social Media
+HOST-SUFFIX,twimg.co,Social Media
+HOST-SUFFIX,twimg.com,Social Media
+HOST-SUFFIX,twitpic.com,Social Media
+HOST-SUFFIX,twitter.com,Social Media
+HOST-SUFFIX,twitter.jp,Social Media
+HOST-SUFFIX,vine.co,Social Media
 
 # > Gmail
 HOST-SUFFIX,gmail.com,PROXY
 
 # > GitHub
-HOST-SUFFIX, github.com,Speed First
-HOST-KEYWORD,githubusercontent,Speed First
+HOST-SUFFIX, github.com,Social Media
+HOST-KEYWORD,githubusercontent,Social Media
 
 # > Search Engine
 HOST-SUFFIX, google.com, Speed First
@@ -6135,15 +6135,15 @@ HOST-KEYWORD,Pornhub,Streaming
 HOST-KEYWORD,AZNude,Streaming
 
 # > Wikipedia
-host-suffix, wikipedia.org, Speed First
+host-suffix, wikipedia.org, Social Media
 
 # > Fandom
-host-keyword, fandom, Speed First
+host-keyword, fandom, Social Media
 
 # > Reddit
-host-suffix, reddit.com, Speed First
-HOST-KEYWORD, reddit, Speed First
-HOST-KEYWORD,redd,Speed First
+host-suffix, reddit.com, Social Media
+HOST-KEYWORD, reddit, Social Media
+HOST-KEYWORD,redd,Social Media
 
 # > Skype
 HOST-SUFFIX,s-0001.s-dc-msedge.net,PROXY
@@ -6159,26 +6159,26 @@ HOST-SUFFIX,steamcommunity.com,ChatGPT
 HOST-SUFFIX,steamgames.com,ChatGPT
 
 # > Telegram
-HOST-SUFFIX,t.me,Speed First
-HOST-SUFFIX,tdesktop.com,Speed First
-HOST-SUFFIX,telegra.ph,Speed First
-HOST-SUFFIX,telegram.me,Speed First
-HOST-SUFFIX,telegram.org,Speed First
-HOST-SUFFIX,telesco.pe,Speed First
-IP-CIDR,91.108.4.0/22,Speed First
-IP-CIDR,91.108.8.0/22,Speed First
-IP-CIDR,91.108.12.0/22,Speed First
-IP-CIDR,91.108.16.0/22,Speed First
-IP-CIDR,91.108.20.0/22,Speed First
-IP-CIDR,91.108.56.0/22,Speed First
-IP-CIDR,91.105.192.0/23,Speed First
-IP-CIDR,149.154.160.0/20,Speed First
-IP-CIDR,185.76.151.0/24,Speed First
-IP6-CIDR,2001:b28:f23d::/48,Speed First
-IP6-CIDR,2001:b28:f23f::/48,Speed First
-IP6-CIDR,2001:67c:4e8::/48,Speed First
-IP6-CIDR,2001:b28:f23c::/48,Speed First
-IP6-CIDR,2a0a:f280::/32,Speed First
+HOST-SUFFIX,t.me,Social Media
+HOST-SUFFIX,tdesktop.com,Social Media
+HOST-SUFFIX,telegra.ph,Social Media
+HOST-SUFFIX,telegram.me,Social Media
+HOST-SUFFIX,telegram.org,Social Media
+HOST-SUFFIX,telesco.pe,Social Media
+IP-CIDR,91.108.4.0/22,Social Media
+IP-CIDR,91.108.8.0/22,Social Media
+IP-CIDR,91.108.12.0/22,Social Media
+IP-CIDR,91.108.16.0/22,Social Media
+IP-CIDR,91.108.20.0/22,Social Media
+IP-CIDR,91.108.56.0/22,Social Media
+IP-CIDR,91.105.192.0/23,Social Media
+IP-CIDR,149.154.160.0/20,Social Media
+IP-CIDR,185.76.151.0/24,Social Media
+IP6-CIDR,2001:b28:f23d::/48,Social Media
+IP6-CIDR,2001:b28:f23f::/48,Social Media
+IP6-CIDR,2001:67c:4e8::/48,Social Media
+IP6-CIDR,2001:b28:f23c::/48,Social Media
+IP6-CIDR,2a0a:f280::/32,Social Media
 
 # > Spotify
 USER-AGENT,Spotify*,Spotify
@@ -6190,7 +6190,7 @@ HOST-SUFFIX,spotify.com,Spotify
 HOST-SUFFIX,-spotify-com,Spotify
 
 # > Instagram
-HOST-KEYWORD,instagram,Speed First
+HOST-KEYWORD,instagram,Social Media
 
 # > Youtube
 user-agent,com.google.ios.youtube*,Streaming
