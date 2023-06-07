@@ -6092,7 +6092,8 @@ HOST-SUFFIX,windows.policies.live.net,Speed First
 # > ChatGPT
 HOST-SUFFIX, ai.com, ChatGPT
 HOST-KEYWORD, chatgpt, ChatGPT
-
+HOST-KEYWORD,openai, ChatGPT
+ 
 # > ImDb
 HOST-SUFFIX,imdb.com,Social Media
 HOST-KEYWORD,imdb,Social Media
