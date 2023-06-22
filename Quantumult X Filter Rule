@@ -1,4 +1,9 @@
 #####Domestic Services#####
+host, 2-courier.push.apple.com, direct
+host, djjc.cfd, direct
+host, 15-courier.push.apple.com, direct
+host-keyword, courier.push.apple.com, direct
+
 # > Apple Music
 HOST-SUFFIX,applemusic.apple,DIRECT
 HOST-SUFFIX,itun.es,DIRECT
